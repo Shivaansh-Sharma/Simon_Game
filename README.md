@@ -21,7 +21,7 @@ A web-based version of the classic **Simon Game** — a memory game where you re
 - HTML
 - CSS
 - JavaScript
-- No external libraries used
+- jQuery
 
 ---
 
